@@ -1,0 +1,18 @@
+{
+  "name": "BAD_APPLE_PRESENCE",
+  "version": "1.0.0",
+  "description": "TU TU TU TUDU TUDU DU DU DU",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "NIKA POGGERS",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
